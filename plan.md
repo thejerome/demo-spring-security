@@ -1,0 +1,3 @@
+InMemory
+jdbcAuthentication
+BCrypt
